@@ -1,0 +1,10 @@
+0 battrey
+1 biological
+2 clothes
+3 glass
+4 cardboard
+5 metal
+6 paper
+7 plastic
+8 shoes
+9 trash
